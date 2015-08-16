@@ -1,7 +1,6 @@
-# Microfluidic_Circuit_Simulation
+# Microfluidic Circuit Simulation for "Droplet on Demand" microfluidic chip
 
-This is a input file for microfluidic circuit simulations. It simulates "droplet on demand" functionality
-of our custom designed microfluidic chip. 
+This is a input file for microfluidic circuit simulations using open source circuit simulation software QUCS (Quiet Universal Circuit Simulator). It simulates "droplet on demand" functionality of our custom designed microfluidic chip. 
 
 For more details and citing this work, please see 
 
